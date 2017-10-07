@@ -1,0 +1,4 @@
+// babel es2015
+{
+  "presets": ["es2015"]
+}
